@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Shafana",
+      "email": "Shafana@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Rohan",
+      "email": "Rohan@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Rahul",
+      "email": "Rahul@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Tomy",
+      "email": "Tomy@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Max Miller",
+      "email": "Maxmiller@gmail.com"
+    },
+    {
+      "id": 6,
+      "name": "Steve",
+      "email": "Steve@gmail.com"
+    },
+    {
+      "id": 7,
+      "name": "Sona",
+      "email": "Sona@gmail.com"
+    },
+    {
+      "id": 8,
+      "name": "Anu",
+      "email": "Anu@gmail.com"
+    }
+  ]
+}
